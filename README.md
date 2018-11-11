@@ -3,7 +3,7 @@
 ## Download & Installation
 ```
 
-###Using Git
+#Using Git
 
 ```
 cd resources
