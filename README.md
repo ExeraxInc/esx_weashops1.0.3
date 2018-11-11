@@ -1,16 +1,12 @@
 # esx_weashops
 
 ## Download & Installation
-
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_weashops
 ```
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_weashops.git [esx]/esx_weashops
+git clone https://github.com/ExeraxInc/esx_weashops1.0.3.git
 ```
 
 ### Manually
