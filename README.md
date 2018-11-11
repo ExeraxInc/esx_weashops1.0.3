@@ -2,8 +2,7 @@
 
 ## Download & Installation
 
-
-#Using Git
+## Using Git
 ```
 cd resources
 git clone https://github.com/ExeraxInc/esx_weashops1.0.3.git
